@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Markup
+title: Physical Lab
 ---
 
 Another sample category page.
