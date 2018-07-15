@@ -10,6 +10,7 @@ layout: default
   {% for post in paginator.posts %}
   <article class="post-body">
     <h2 class="post-title">
+        {{ post.title }}
     </h2>
     {% include post-meta.html post=post %}
 
