@@ -1,6 +1,6 @@
 ---
 layout: index
 title: PowerShell
-sidebar_sort_order: 123
+sidebar_sort_order: 2
 sidebar_link: true
 ---
