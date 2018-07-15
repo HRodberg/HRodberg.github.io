@@ -1,5 +1,5 @@
 ---
 layout: index
 title: Physical Lab
-sidebar_sort_order: 2
+sidebar_sort_order: 123
 ---
