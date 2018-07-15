@@ -15,7 +15,7 @@ baseurl:          /
 
 author:
   name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  url:            https://hrodberg.github.io/
 
 paginate:         5
 
