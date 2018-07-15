@@ -1,6 +1,5 @@
 ---
 layout: category
 title: Physical Lab
+sidebar_sort_order: 3
 ---
-
-Another sample category page.
