@@ -6,8 +6,8 @@ highlighter:      rouge
 title:            HRodberg
 tagline:          'Portfolio'
 description:      'Portfolio'
-url:              https://hrodberg.github.io
-baseurl:          'https://hrodberg.github.io/'
+url:              https://hrodberg.github.io/
+baseurl:          'https://hrodberg.github.io'
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
                   # If you want to move just the blog index pages but keep
