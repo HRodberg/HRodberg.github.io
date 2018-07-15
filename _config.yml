@@ -22,7 +22,7 @@ github_username:  HRodberg
 
 # Build settings
 markdown: kramdown
-theme: slate
+theme: minima
 plugins:
   - jekyll-feed
 
