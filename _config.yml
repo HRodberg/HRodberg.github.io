@@ -3,9 +3,9 @@ markdown:         kramdown
 highlighter:      rouge
 
 # Setup
-title:            HRodberh
+title:            HRodberg
 tagline:          'Portfolio'
-description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
+description:      'Portfolio'
 url:              https://hrodberg.github.io/
 baseurl:          'https://hrodberg.github.io/'
                   # the optional subpath of your site, e.g. "/blog"
