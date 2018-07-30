@@ -4,4 +4,4 @@ layout: category
 sidebar_sort_order: 1
 
 ---
-![](Images/Capture.PNG)
+![](/Images/Capture.PNG)
