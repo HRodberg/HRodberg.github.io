@@ -1,7 +1,7 @@
 ---
 title: PowerShell
 layout: category
-sidebar_sort_order: 2
+sidebar_sort_order: 3
 
 ---
 ![](/Images/PowerShell.PNG)
