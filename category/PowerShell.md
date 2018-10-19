@@ -4,4 +4,4 @@ layout: category
 sidebar_sort_order: 3
 
 ---
-![](/Images/PowerShell.PNG)
+![](/Images/Group Membership GUI.PNG)
